@@ -104,9 +104,9 @@ This project is under license of Miguel Herrera
 <!-- PREVIEW -->
 ## Preview 
 
-- General overview gif
+- General view
 
-![foto](image.png)
+![foto](./src/assets/image.png)
 
 
 
